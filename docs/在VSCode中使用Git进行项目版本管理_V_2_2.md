@@ -86,7 +86,7 @@ git status 命令用于查看项目的当前状态。
 - git commit
 使用 git add 命令将想要快照的内容写入暂存区域， 而执行 git commit 将暂存区域的内容添加到 Git 仓库中。  
 接下来，我们使用 git commit 命令将暂存区域的内容添加到 Git 仓库中。  
-![git commit](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/%E5%9C%A8%20VSCode%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Git%20%E8%BF%9B%E8%A1%8C%E9%A1%B9%E7%9B%AE%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/pic/git_commit.png)
+![git commit](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/%E5%9C%A8%20VSCode%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Git%20%E8%BF%9B%E8%A1%8C%E9%A1%B9%E7%9B%AE%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/pic/git_commit.png)  
 使用 -m 选项以在命令行中提供提交注释。  
 如果你觉得 git add 提交缓存的流程太过繁琐，Git 也允许你用 -a 选项跳过这一步。  
 此时我修改了项目中的两个文件，使用 git commit -am 命令  
