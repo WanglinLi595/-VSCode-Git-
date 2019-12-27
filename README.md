@@ -39,4 +39,4 @@ V_1_1：修改教程构架
 
 ## 许可证
 
-本开源项目使用MIT许可证，具体说明请查看LICENSE文件。
+本开源项目使用MIT许可证，具体说明请查看 [LICENSE](https://github.com/WanglinLi595/version-control/blob/master/LICENSE) 文件。
