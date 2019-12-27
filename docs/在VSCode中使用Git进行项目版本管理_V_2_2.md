@@ -187,7 +187,7 @@ SSH Keys 能让你方便的登录到 SSH 服务器，而无需输入密码。
 - calculator 仓库克隆到本地后，会在你选定的路径生成一个文件夹。文件夹的名字为你 GitHub 仓库的名字。我们 GitHub 上的仓库名为 calculator，那么克隆下来的文件夹名也为 calculator 。
 ![calculator](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/%E4%BD%BF%E7%94%A8VSCode%2BGitHub%E8%BF%9B%E8%A1%8C%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/github_name.png)
 - 然后将计算器项目里面的内容复制到 calculator 文件夹里面。用 VSCode 打开 calculator 文件夹。
-![modify](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/%E5%9C%A8%20VSCode%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Git%20%E8%BF%9B%E8%A1%8C%E9%A1%B9%E7%9B%AE%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/pic/vscode_open_calculator.png)
+![modify](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/%E5%9C%A8%20VSCode%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Git%20%E8%BF%9B%E8%A1%8C%E9%A1%B9%E7%9B%AE%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/pic/vscode_open_calculator.png)  
 从图中可以看到，VSCode 已经识别到了我们修改的文件
 - 点击 Source Control，再点击 "√" (这个相当于 git commit -am 命令），它会将所有修改的文件添加到 Git 仓库。
 ![vscode add commit](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/%E5%9C%A8%20VSCode%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Git%20%E8%BF%9B%E8%A1%8C%E9%A1%B9%E7%9B%AE%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/pic/vscode_git_commit.png)
