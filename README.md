@@ -7,9 +7,7 @@
  * @最后编辑时间: 2019.12.27
  -->
 
-![version](https://img.shields.io/badge/version-V__1__2-orange)
-
-[![licese](https://img.shields.io/badge/license-MIT-green)]()
+![version](https://img.shields.io/badge/version-V__1__2-orange) [![licese](https://img.shields.io/badge/license-MIT-green)](https://github.com/WanglinLi595/version-control/blob/master/LICENSE)
 
 # version-control
 
